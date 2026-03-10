@@ -16,7 +16,7 @@ This build restores the classic behavior by providing **Geary 44.1**, where thes
 
 More background and discussion can be found on the Raspberry Pi forum:
 
-[geary_44.1-1wobbo1_arm64_20251202.deb](https://github.com/wobbo/geary-44.1-arm64/releases/download/v44.1/geary_44.1-1wobbo1_arm64_20251202.deb)
+[geary_44.1-1wobbo1_arm64_20251202.deb](https://github.com/wobbo/geary-44.1-for-debian-trixie-arm64/raw/main/geary_44.1-1wobbo1_arm64_20251202.deb)
 
 [HOWTO: Email Client Geary and Launches in Background on Startup (Raspberry Pi OS GNOME)](https://forums.raspberrypi.com/viewtopic.php?t=387502#p2313459)
 
