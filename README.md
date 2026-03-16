@@ -14,7 +14,7 @@ In recent Debian 13 GNOME updates, the official Geary packages (versions 46 and 
 - flagged message indicators
 - message markers in the conversation list
 
-![Geary screenshot](https://wobbo.org/screenshots/20250225__373028_Geary_009.webp)
+[![Geary screenshot](https://wobbo.org/screenshots/20250225__373028_Geary_009.webp)](https://forums.raspberrypi.com/viewtopic.php?t=387502#p2313459)
 
 This breaks the visual layout and makes Geary harder to use.
 
