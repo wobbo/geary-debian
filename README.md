@@ -41,3 +41,13 @@ Download and install the package:
 ```bash
 t=$(mktemp -d); cd $t; wget https://github.com/wobbo/geary-44.1-arm64/releases/download/v44.1/geary_44.1-1wobbo1_arm64_20251202.deb && \
 sudo apt install -y ./geary_44.1-1wobbo1_arm64_20251202.deb && sudo apt-mark hold geary; cd; rm -rf $t
+```
+
+---
+
+## GNOME settings
+
+[![GNOME settings Online](https://wobbo.org/screenshots/2025-05-06_GNOME_settings_Online_accounts_mini.webp)](https://forums.raspberrypi.com/viewtopic.php?t=387502#p2313459)
+
+
+---
